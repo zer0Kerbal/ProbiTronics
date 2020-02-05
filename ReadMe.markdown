@@ -1,6 +1,6 @@
 ​
 
- ![Mod Version](https://img.shields.io/github/v/release/zer0Kerbal/SimpleLogistics?include_prereleases) 
+ ![Mod Version](https://img.shields.io/github/v/release/zer0Kerbal/ProbiTronics?include_prereleases) 
 ![KSP 1.8.x](https://img.shields.io/badge/KSP%20version-1.8.x-66ccff.svg?style=flat-square) 
 ![CKAN listed](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg) 
 ![License CC 4.0 BY-NC-SA](https://img.shields.io/badge/License-CC--4.0--BY--SA-lightgrey)
