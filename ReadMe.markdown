@@ -1,6 +1,9 @@
 ​
 
- 
+ ![Mod Version](https://img.shields.io/github/v/release/zer0Kerbal/SimpleLogistics?include_prereleases) 
+![KSP 1.8.x](https://img.shields.io/badge/KSP%20version-1.8.x-66ccff.svg?style=flat-square) 
+![CKAN listed](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg) 
+![License CC 4.0 BY-NC-SA](https://img.shields.io/badge/License-CC--4.0--BY--SA-lightgrey)
 
 ProbiTronics is my first add on for Kerbal Space Program PC game. Mod is more focused on specialized probes, and parts that help you with reusability of rocket stages. I have great ideas and if everything goes well I will continue to improve and add new parts to this add on. It is currently in alpha version so if you find some bugs please contact me.
 
