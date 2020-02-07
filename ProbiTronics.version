@@ -1,6 +1,6 @@
 {
 	"NAME" : "ProbiTronics",
-	"URL"      : "https://raw.githubusercontent.com/zer0Kerbal/Probitronics/ProbiTronics/ProbiTronics.version",
+	"URL"      : "https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/ProbiTronics.version",
 	"DOWNLOAD" : "https://github.com/zer0Kerbal/ProbiTronics/releases/latest",
 	"CHANGE_LOG_URL":"https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/Changelog.cfg",
 	"GITHUB" :
@@ -9,7 +9,7 @@
 		"REPOSITORY" : ProbiTronics"
 		"ALLOW_PRE_RELEASE": false
 	},
-	"VERSION" : 
+	"VERSION" :
 	{
 		"MAJOR" : 0,
 		"MINOR" : 0,
@@ -35,4 +35,3 @@
 		"PATCH":9999
 	}
 }
-//master/GameData
