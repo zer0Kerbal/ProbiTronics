@@ -36,51 +36,7 @@ DOWNLOAD on CURSE v0.22(Under Review)
 
 Probitronics on Twitter and Youtube
 
-Change Log
-
- 
- 
-
-Version 0.22 Changes
-1. Price and other changes for 0.24 compatibility.
-2. Some smaller bug fixes.
-
-Version 0.21 Changes
-1. Ball probe now have custom science experiment. Advanced Atmospheric Research. Also have barometer.
-2. G-Probe now have custom science experiment. Magnetic field measurements. Also have gravity sensor.
-3. On all parts configurations are changed on some more on some less.
-
-Version 0.20 Changes
-1. New - SP-1 - sample probe. For Better ways to bring back samples. 
-2. New - LA-2m - Leg adapter 2m. Your engine is to high and your legs don't touch the ground, not anymore.. 
-3. LA-1m - Mesh collider fix.
-4. SM I and SM II texture changes and fix. New textures are .tga  you can delete .png textures for SM I and SM II parts.
-
-Version 0.19 Changes
-1. RU-3m MK I - probe, decoupler and parachute compartment in one. Add two Mk16 parachutes in middle attachment points.
-2. LA-1m - Leg Adapter give you ability to use stock legs on longer engines.
-3. TAC Life Support - Added tac life support for parts
-4. SM MK I ans SM MK II texture change
-5. RU-2m - height fix so parachute can fit inside
-
-Version 0.18 Changes
-
-1. SM MK I - Service module for Command Pod Mk1 (1m part).
-2. SM MK II - Service module for Command Pod Mk2-3 (2m-part).
-3. RB-721 - Rover body with probe inside, some battery's and small Radioisotope Thermoelectric Generator.
-
-
-Version 0.17 Changes
- Two new Parts added, for better reusability of stock parts.Attach this on top of your first or second stage
- 1. RU-1m - probe, decoupler and parachute compartment in one. Add Mk16 parachute in middle attachment point
- 2. RU-2m - probe, decoupler and parachute compartment in one. Add Mk16-XL parachute in middle attachment point
-
-Version 0.16 Changes
-1. ATV - attachment bug fixes and changing parameters in cfg file
-2. Ball probe - cfg file changes
-3. G-probe - cfg file changes - added more electric charge and xenon gas
-
- 
+<hr>
 
 SP-1 - reusable sample probe for bringing samples back to Kerbin.
 
@@ -99,12 +55,10 @@ G-probe is probe for measuring gravitational and magnetic fields. Include custom
 ATV (Automatic Transport Vehicle) is used for transport food, oxygen, fuel and other stuff in to the space. DonÃ¢â‚¬â„¢t forget to attach some engine, thrusters, and solar panels.
 
 ProbiTronics mod is all about specialized probes and reusability.
-
-g-probe-4.jpg
-https://www.curseforge.com/kerbal/ksp-mods/probitronics/screenshots
-ball-probe-1.jpg
-
-atv-probe-2.jpg
-
+https://media.forgecdn.net/attachments/4/679/atv-probe-2.jpg
+https://media.forgecdn.net/attachments/4/679/g-probe-4.jpg
+https://media.forgecdn.net/attachments/4/679/ball-probe-1.jpg
+https://media.forgecdn.net/attachments/4/679/atv-probe-2.jpg
+<hr>
 License:  cc Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 ​
