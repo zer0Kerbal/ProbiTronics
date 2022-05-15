@@ -2,7 +2,7 @@
     "NAME"           : "ProbiTronics (PBT)",
     "URL"            : "https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/ProbiTronics.version",
     "DOWNLOAD"       : "https://github.com/zer0Kerbal/ProbiTronics/releases/latest",
-    "CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/Changelog.cfg",
+    "CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/changelog.md",
     "GITHUB" :
     {
         "USERNAME"          : "zer0Kerbal",
