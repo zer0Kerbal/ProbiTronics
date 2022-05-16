@@ -49,29 +49,6 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 [![Kottabos reviews Dreamer](https://img.youtube.com/vi/Oj1etoybd7E/0.jpg)](https://www.youtube.com/watch?v=Oj1etoybd7E)
 
-<details>
-  <summary><b>Youtube review by <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/ ">@Kottabos Gaming</a></b></summary>
-  Support on <a href="https://www.patreon.com/Kottabosgames">Patreon.</a>
-  <iframe width="1136" height="639" src="https://www.youtube.com/embed/Oj1etoybd7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</details>
-
-<details>
-	<summary><b>Some of the amazing modeling work of <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/103696-daemoria/">@Daemoria</a></b></summary>
-    <pre>Some of the amazing modeling work of Daemoria</pre>
-    <img src="https://camo.githubusercontent.com/9d01269db79915ac1e33591e3c104d235629ee2c882d055b5bace08ea45d368a/68747470733a2f2f692e696d6775722e636f6d2f3937733170304f2e706e67" alt="Some of the amazing modeling work of Daemoria" width="75%" height="75%">
-</details>
-
-<details>
-    <summary><b>More inspiration</b></summary>
-    Test Flight!: More inspiration
-    <img src="https://i.imgur.com/T6pyukJ.jpg" alt="More inspiration" width="75%" height="75%">
-</details>
-
-<details>
-    <summary><b>Fruit Bat Industries mk I</b></summary>
-    <img src="https://i.imgur.com/KpBnYY2.jpg" alt="Fruit Bat Industries ProbiTronics mk I" width="75%" height="75%">
-</details>
-
 ### Help Wanted
 
 > * Compatibility patches
@@ -113,9 +90,6 @@ or [![CKAN][CKAN:img]][CKAN:url]
   * [Module Manager /L][mml]
 
 * [On Demand Fuel Cells (ODFC)][ODFC] [^3]  
-* [Firespitter][fs] for fully functioning wheels. may invoke bouts of dizziness.
-* [NEAR-FAR][far]
-* [Restock][restock]
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
 
 <div style="border:0.5px solid Tomato; background-color: #BADA55; color: #FF0000; text-align:center">
@@ -127,21 +101,8 @@ or [![CKAN][CKAN:img]][CKAN:url]
 
 ### Credits and Special Thanks
 
-* [DaMichel][damichel] for creating this glorious parts addon!
-* [`Bezzier`][bezzier] for the picking up where [DaMichel][damichel] left off
+* [tdubic][tdubic] for creating this glorious parts addon!
 * see [Attribution.md][MOD:attr] for more comprehensive list
-
-<details>
-  <summary>Credits and Special Thanks</summary>
-  <summary>see [Attribution.md][MOD:attr] for more comprehensive list</summary>
-  <ul>
-	<li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/173506-overkill13/">@overkill13</a> for massive amount of testing and suggestions </li>
-    <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/201212-kawaiilucy/">@KawaiiLucy</a> for Restock whitelist </li>
-	<li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/102159-sage-sagan/">@tdubic</a> for creating this mod </li>
-	<li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/42741-blackheart612/">@Blackheart612</a> texture and logo work </li>
-	<li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/103696-daemoria/">@Daemoria</a> models and other things </li>
-	</ul>
-</details>
 
 ### Legal Mumbo Jumbo (License *provenance*)
 
@@ -200,29 +161,6 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [LIC:log]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
 [LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/json/license.json "CC BY-NC-SA 4.0"
 
-<!--- GPLv2
-[LIC:0:url]: https://www.gnu.org/licenses/gpl-2.0-standalone.html "GPLv2"  
-[LIC:0:log]: https://i.postimg.cc/9FrwMgK6/GPL-17x17.png "GPLv2"
-[LIC:0:shd]:  https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/json/license.json
-https://img.shields.io/badge/License-GPLv2-A42E2B?style=plastic&labelColor=white&logoColor=A42E2B&logo=gnu "GPLv2"
--->
-
-<!--- GPLv3
-[LIC:url]: https://www.gnu.org/licenses/gpl-3.0-standalone.html "GPLv3"  
-[LIC:log]: https://i.postimg.cc/9FrwMgK6/GPL-17x17.png "GPLv3"
-[LIC:shd]:  https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/json/license.json
-https://img.shields.io/badge/License-GPLv3-A42E2B?style=plastic&labelColor=white&logoColor=A42E2B&logo=gnu "GPLv3"
-
-[LIC:0:url]: http://www.wtfpl.net/about/ "WTFPL"
-[LIC:0:log]: http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png "WTFPL"
-[LIC:0:shd]: https://img.shields.io/badge/License-WTFPL-white?style=plastic&labelColor=purple "WTFPL"
--->
-
-<!--- SimpleBSD-2-Clause
-[LIC:0:url]: https://choosealicense.com/licenses/bsd-2-clause/ "SimpleBSD-2-Clause"
-[LIC:0:shd]: https://img.shields.io/badge/License-BSD--2--Clause-AB2B28?labelColor=white&style=plastic&logoColor=AB2B28&logo=FreeBSD "SimpleBSD-2-Clause"
--->
-
 <!--- AVC -->
 [AVC:shd]: https://img.shields.io/badge/KSP-AVC--supported-00C961.svg?labelColor=black&style=plastic
 [AVCVLD:shd]: https://github.com/zer0Kerbal/ProbiTronics/workflows/Validate%20AVC%20.version%20files/badge.svg?labelColor=black&style=plastic "AVC-Valid - thank you to DasSkelett"
@@ -248,13 +186,9 @@ https://img.shields.io/badge/License-GPLv3-A42E2B?style=plastic&labelColor=white
 
 <!-- links to add-ons/mods -->  
 [ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells"
-[fs]: https://github.com/snjo/Firespitter/ "Firespitter"
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
-[ckan]: https://forum.kerbalspaceprogram.com/index.php?/topic/154922-*/ "CKAN"
-[far]: https://forum.kerbalspaceprogram.com/index.php?/topic/179445-*/ "FAR"
-[restock]: https://forum.kerbalspaceprogram.com/index.php?/topic/182679-*/ "Restock"
 [GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
 
 <!-- financial support -->
