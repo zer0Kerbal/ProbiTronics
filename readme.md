@@ -13,18 +13,18 @@ updated: 13 May 2022 -->
 
 # ProbiTronics (PT)
 
-***Micro Shuttle and Rescue Vehicle*** for three (3) kerbals by Fruit Bat Industries. This is ***not*** a SSTO.
+ProbiTronics is all about specialized probes and reusability
 
 
 
-## By [`zer0Kerbal`][zer0Kerbal], originally by [`Sage Sagan`][sagesagan] with [@Daemoria`][daemoria] and [`Blackheart612`][blackheart]  
+## By [`zer0Kerbal`][zer0Kerbal], originally by [`tdubic`][tdubic]
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 <img src="https://i.imgur.com/9insi36.png" alt="Ptero logo" width="25%" height="25%"> <img src="https://i.imgur.com/amouo8l.png" alt="Texture and Logo work by Blackheart612" width="50%" height="50%">
 
 <details>
-  <summary><b>Preamble by <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/102159-sage-sagan/">@Sage Sagan</a></b></summary>
+  <summary><b>Preamble by <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/102159-sage-sagan/">@tdubic</a></b></summary>
   <p>I love Helldiver's KSO, but it got me thinking about the WEKA and the idea of a REALLY small lifting body shuttle(1.25m scale) for crew return and emergency returns from orbit. So after a few abortive attempts at Blender which resulted in the kind of design that should be drowned at birth, I decided to draw on a napkin at work(aren't those always the best designs?).</p>
   <p>The idea ~would be~ [was] to keep a very low part count, so ideally it will consist of only 6-8 parts i.e. Fuselage,right and left winglets ,docking port,two oms engines. The OMS engines would be R.C.S fueled so they can share the same internal R.C.S. tanks as the thrusters. The shuttle will seat 2 kerbals in a tandem configuration with hopefully RPM displays(2), as a place holder the MK2 cockpit IVA could be used as config is similar.<p>
   <p>The shuttle, when fueled would weigh in at around 1.8 tonnes and due to it's size will fit in a 2.5m fairing which makes it much easier to launch especially for FAR uses. I picture it as being slightly wider that a MK2 cockpit. This is not shown on the sketch but the docking collar will fit on the rear. The compact size means it should fit in a 2.5m cargo bay for carrying on larger ships etc.</p>
@@ -135,7 +135,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
   <ul>
 	<li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/173506-overkill13/">@overkill13</a> for massive amount of testing and suggestions </li>
     <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/201212-kawaiilucy/">@KawaiiLucy</a> for Restock whitelist </li>
-	<li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/102159-sage-sagan/">@Sage Sagan</a> for creating this mod </li>
+	<li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/102159-sage-sagan/">@tdubic</a> for creating this mod </li>
 	<li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/42741-blackheart612/">@Blackheart612</a> texture and logo work </li>
 	<li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/103696-daemoria/">@Daemoria</a> models and other things </li>
 	</ul>
@@ -155,7 +155,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 
 ##### see [Notices.md][MOD:notic] for more *legal mumbo jumbo*
 
-#### Original (0) - Author: [`Sage Sagan`][sagesagan]
+#### Original (0) - Author: [`tdubic`][tdubic]
 
 > Forum: [Thread][MOD:0:thread] - Download: [Dropbox][MOD:0:dnload] - Source: [Dropbox][MOD:0:source]  
 > License: [![License][LIC:0:shd]][LIC:0:url] ![License][LIC:0:log]
@@ -285,7 +285,7 @@ https://img.shields.io/badge/License-GPLv3-A42E2B?style=plastic&labelColor=white
 [SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/SW.png "Svenska"  
 [TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/TW.png "国语"
 
-[sagesagan]:  https://forum.kerbalspaceprogram.com/index.php?/profile/102159-*/ "Sage Sagan"
+[tdubic]:  https://forum.kerbalspaceprogram.com/index.php?/profile/102159-*/ "tdubic"
 [blackheart]: https://forum.kerbalspaceprogram.com/index.php?/profile/42741-*/ "Blackheart612"
 [daemoria]:   https://forum.kerbalspaceprogram.com/index.php?/profile/103696-*/ "Daemoria"  
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
