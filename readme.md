@@ -218,6 +218,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/TW.png "国语"
 
 [tdubic]:  https://forum.kerbalspaceprogram.com/index.php?/profile/102159-*/ "tdubic"
+[zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
 <!-- footnotes -->
 [^1]: this isn't a mod. ;P
