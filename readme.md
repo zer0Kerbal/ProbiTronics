@@ -141,7 +141,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 
 [CODE:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/json/code.json
 
-[MOD:pages:shd]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
+[MOD:pages:shd]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=191428&logo=github "GitHub IO"
 
 <!--- mod provenance -->
 [MOD:0:source]: https://www.dropbox.com/s/85og3xdhark7com/ProbiTronics5.rar?dl=0 "Dropbox"
