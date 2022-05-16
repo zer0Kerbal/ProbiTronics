@@ -13,7 +13,7 @@ updated: 13 May 2022 -->
 
 # ProbiTronics (PT)
 
-ProbiTronics is all about specialized probes and reusability
+ProbiTronics is all about specialized probes and parts that help with reusability of rocket stages. For Kerbal Space Program.
 
 
 
@@ -23,12 +23,14 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 <img src="https://i.imgur.com/9insi36.png" alt="Ptero logo" width="25%" height="25%"> <img src="https://i.imgur.com/amouo8l.png" alt="Texture and Logo work by Blackheart612" width="50%" height="50%">
 
-<details>
-  <summary><b>Preamble by <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/102159-sage-sagan/">@tdubic</a></b></summary>
-  <p>I love Helldiver's KSO, but it got me thinking about the WEKA and the idea of a REALLY small lifting body shuttle(1.25m scale) for crew return and emergency returns from orbit. So after a few abortive attempts at Blender which resulted in the kind of design that should be drowned at birth, I decided to draw on a napkin at work(aren't those always the best designs?).</p>
-  <p>The idea ~would be~ [was] to keep a very low part count, so ideally it will consist of only 6-8 parts i.e. Fuselage,right and left winglets ,docking port,two oms engines. The OMS engines would be R.C.S fueled so they can share the same internal R.C.S. tanks as the thrusters. The shuttle will seat 2 kerbals in a tandem configuration with hopefully RPM displays(2), as a place holder the MK2 cockpit IVA could be used as config is similar.<p>
-  <p>The shuttle, when fueled would weigh in at around 1.8 tonnes and due to it's size will fit in a 2.5m fairing which makes it much easier to launch especially for FAR uses. I picture it as being slightly wider that a MK2 cockpit. This is not shown on the sketch but the docking collar will fit on the rear. The compact size means it should fit in a 2.5m cargo bay for carrying on larger ships etc.</p>
-</details>
+* SP-1 - reusable sample probe for bringing samples back to Kerbin.
+* LA-1m and LA -2m - Leg Adapter give you ability to use stock legs on longer engines.
+* RB-721 - more than just rover body
+* SM Mk I and SM Mk II are Service Modules for Command Pod Mk I and Command pod MK 2-3
+* RU-1m and RU-2m are probe, decoupler and parachute compartment in one. With this parts you can make your 1m and 2m stock rocket reusable.
+* Ball Probe is small probe for taking data from planets atmosphere.Include barometer sensor an also have custom science experiment (advanced atmospheric research). On top put ball probe parachute and on bottom heat shield.
+* G-probe is probe for measuring gravitational and magnetic fields. Include custom magnetic field scanner and com antenna (Jeb insisted). Include SAS and XenonGas Tank.
+* ATV (Automatic Transport Vehicle) is used for transport food, oxygen, fuel and other stuff in to the space. DonÃ¢â‚¬â„¢t forget to attach some engine, thrusters, and solar panels.
 
 ---
 
