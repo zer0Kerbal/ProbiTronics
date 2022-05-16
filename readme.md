@@ -21,7 +21,7 @@ ProbiTronics is all about specialized probes and parts that help with reusabilit
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
-<img src="https://i.imgur.com/9insi36.png" alt="Ptero logo" width="25%" height="25%"> <img src="https://i.imgur.com/amouo8l.png" alt="Texture and Logo work by Blackheart612" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/img/atv-kerbal-space-program2.jpg" alt="ProbiTronics" width="50%" height="50%">
 
 * SP-1 - reusable sample probe for bringing samples back to Kerbin.
 * LA-1m and LA -2m - Leg Adapter give you ability to use stock legs on longer engines.
@@ -40,10 +40,6 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 * Changelog Summary for more details of changes : See [ChangeLog][MOD:chlog]
 * Known Issues for more details of feature requests and known issues : See [Known Issues][MOD:issue]
 * GitHub Pages : See [Pages][MOD:pages]
-
----
-
-![Hero Image][IMG:hero:0]
 
 ### Youtube review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
 
