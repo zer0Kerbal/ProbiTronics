@@ -222,26 +222,8 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/TW.png "国语"
 
 [tdubic]:  https://forum.kerbalspaceprogram.com/index.php?/profile/102159-*/ "tdubic"
-[blackheart]: https://forum.kerbalspaceprogram.com/index.php?/profile/42741-*/ "Blackheart612"
-[daemoria]:   https://forum.kerbalspaceprogram.com/index.php?/profile/103696-*/ "Daemoria"  
-[zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
-
-[IMG:flg:0]: https://via.placeholder.com/256x160png/ffffff/bada55?text=KGEx "Mini Sample Return Capsule Flag"
 
 <!-- footnotes -->
 [^1]: this isn't a mod. ;P
 [^2]: ***may*** work on other versions (YMMV)
 [^3]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*
-
----
-
-## Track progress
-
-### issues [here][MOD:issue] - projects [here](https://github.com/zer0Kerbal/ProbiTronics/projects/)
-
-**[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
-
-<div style="border:0.5px solid #BADA55; background-color: #FF7E03; color: #FF0000; text-align:center"></br>
-<a href = "https://twitter.com/zer0Kerbal"><img src = "https://cdn.icon-icons.com/icons2/836/PNG/32/Twitter_icon-icons.com_66803.png" alt="zer0Kerbal | Twitter" height="5%" width="5%"></a>
-<a href = "https://www.youtube.com/channel/UCp9c8IaK4Gjgfj3O9QxrbDw"> <img src = "https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" alt="zer0Kerbal | YouTube" height="5%" width="5%"></a> <a href = "https://www.twitch.tv/zer0kerbal">
-  <img src = "https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" alt="zer0Kerbal | Twitch" height="5%" width="5%"></a></br></br></div>
