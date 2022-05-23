@@ -35,6 +35,11 @@
 * [TACS-LS.cfg] v1.0.1.0
   * lots of stray right/closing braces `}`
 
+* [kerbalOperatingSystem.cfg]
+  * missing closes/right bracket `]`
+* [BallProbe.cfg]
+  * [description] accidentially split in twain, superklue applied
+
 ### Asset Updates
 
 * create Assets/ folder
