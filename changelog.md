@@ -30,12 +30,27 @@
   * [_config.yml]
   * closes #29 - docs/
 
-### Parts
+### Asset Updates
 
-  * closes #28 - Asset Updates
+* create Assets/ folder
+* convert from mesh to MODEL
+* rename
+  * models to unique names
+  * textures to unique names
+* update
+  * model pointers (.png et al to .dds)
+  * model texture pointers to new names
+* relocate assets to Assets/
+* eliminate
+  * duplicate textures
+  * duplicate models
+* relocate part.cfg to Parts/
+* add @thumbs
+* closes #28 - Asset Updates
 
 ### Localization
 
+* Part Localization
   * closes #24 - Part Localization
   * closes #8 - English <us-en.cfg>
   * closes #7 - Localization - Master
