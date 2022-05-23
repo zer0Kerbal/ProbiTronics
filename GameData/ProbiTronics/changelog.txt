@@ -1,3 +1,8 @@
+Change Log Probitronics v0.22
+
+1. Price and other changes for 0.24 compatibility.
+2. Some smaller bug fixes.
+
 Change Log Probitronics v0.21
 
 1. Ball probe now have custom science experiment. Advanced Atmospheric Research. Also have barometer.
