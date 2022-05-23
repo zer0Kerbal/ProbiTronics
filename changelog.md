@@ -30,6 +30,11 @@
   * [_config.yml]
   * closes #29 - docs/
 
+### Parts
+
+* [TACS-LS.cfg] v1.0.1.0
+  * lots of stray right/closing braces `}`
+
 ### Asset Updates
 
 * create Assets/ folder
