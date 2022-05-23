@@ -17,6 +17,17 @@
 
 ### docs/
 
+* Update
+  * [Attribution.md] v1.0.6.0
+  * [ManualInstallation.md] v1.1.7.0
+* Add
+  * [404-petunia.md]
+  * [LegalMumboJumbo.md] v1.0.5.0
+  * [Localizations.md] v1.1.3.1
+  * [Marketing.md] v1.0.0.0
+  * [Notices.md] v1.0.0.0
+  * [PartInvoice.md] v1.1.3.1
+  * [_config.yml]
   * closes #29 - docs/
 
 ### Parts
