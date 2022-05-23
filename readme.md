@@ -1,11 +1,11 @@
-<!-- readme.md v1.6.7.2
+<!-- readme.md v1.6.8.0
 ProbiTronics (PT)
 created: 17 Jul 2017
-updated: 13 May 2022 -->
+updated: 17 May 2022 -->
 
 <!--this file: CC BY-ND 4.0 by zer0Kerbal-->
 
-[![ProbiTronics][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
+[![MOD-NAME][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][CKAN:shd]][CKAN:url]   
 [![Pages][MOD:pages:shd]][MOD:pages]
 
@@ -13,8 +13,7 @@ updated: 13 May 2022 -->
 
 # ProbiTronics (PT)
 
-ProbiTronics is all about specialized probes and parts that help with reusability of rocket stages. For Kerbal Space Program.
-
+ProbiTronics is all about specialized probes and reusability parts. For Kerbal Space Program.
 
 
 ## By [`zer0Kerbal`][zer0Kerbal], originally by [`tdubic`][tdubic]
@@ -22,16 +21,38 @@ ProbiTronics is all about specialized probes and parts that help with reusabilit
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/img/atv-kerbal-space-program2.jpg" alt="ProbiTronics" width="75%" height="75%">
-<img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/img/HeroLogo_1920x1920.png" alt="ProbiTronics" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/img/HeroLogo_1920x1920.png" alt="ProbiTronics" width="75%" height="75%">
+
+### Part List
 
 * SP-1 - reusable sample probe for bringing samples back to Kerbin.
-* LA-1m and LA -2m - Leg Adapter give you ability to use stock legs on longer engines.
-* RB-721 - more than just rover body
-* SM Mk I and SM Mk II are Service Modules for Command Pod Mk I and Command pod MK 2-3
-* RU-1m and RU-2m are probe, decoupler and parachute compartment in one. With this parts you can make your 1m and 2m stock rocket reusable.
-* Ball Probe is small probe for taking data from planets atmosphere.Include barometer sensor an also have custom science experiment (advanced atmospheric research). On top put ball probe parachute and on bottom heat shield.
-* G-probe is probe for measuring gravitational and magnetic fields. Include custom magnetic field scanner and com antenna (Jeb insisted). Include SAS and XenonGas Tank.
-* ATV (Automatic Transport Vehicle) is used for transport food, oxygen, fuel and other stuff in to the space. DonÃ¢â‚¬â„¢t forget to attach some engine, thrusters, and solar panels.
+* LA-1m and LA-2m - Leg Adapter give you ability to use stock legs on longer engines.
+* RB-721 - more than just a rover body
+* SM MkI
+  * Service Module for Command Pod MkI
+* SM MkII
+  * Service Module for Command Pod Mk I and Command pod MK1-3
+* RU-1m and RU-2m
+  * probe, decoupler and parachute compartment in one
+  * With these parts you can make your 1m and 2m stock rocket much more reusable
+* Ball Probe
+  * small probe for taking data from planets atmosphere
+  * Science:
+    * Barometer sensor
+    * Advanced Atmospheric Research (AAR): custom science experiment
+  * Put ball probe parachute on top, and heat shield on bottom
+* G-probe
+  * probe
+  * Science:
+    * measuring gravitational and magnetic fields
+    * Magnetic Field Scanner (MFS)
+    * Includes
+      * communication antenna (Jeb insisted)
+      * SAS
+      * Xenon Gas tank
+* Automatic Transport Vehicle (ATV))
+  * is used for transporting resources and supplies (like: food, oxygen, fuel and other stuff) to space
+  * Don't forget to attach some engine, thrusters, and solar panels.
 
 ---
 
@@ -41,10 +62,6 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 * Changelog Summary for more details of changes : See [ChangeLog][MOD:chlog]
 * Known Issues for more details of feature requests and known issues : See [Known Issues][MOD:issue]
 * GitHub Pages : See [Pages][MOD:pages]
-
-### Youtube review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
-
-[![Kottabos reviews Dreamer](https://img.youtube.com/vi/Oj1etoybd7E/0.jpg)](https://www.youtube.com/watch?v=Oj1etoybd7E)
 
 ### Help Wanted
 
@@ -86,8 +103,9 @@ or [![CKAN][CKAN:img]][CKAN:url]
   * [Module Manager][mm]
   * [Module Manager /L][mml]
 
-* [On Demand Fuel Cells (ODFC)][ODFC] [^3]  
+* [On Demand Fuel Cells (ODFC)][ODFC]
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
+* [TweakScale (TWK)][twk]
 
 <div style="border:0.5px solid Tomato; background-color: #BADA55; color: #FF0000; text-align:center">
   <p><b>red box below is a link to forum post on how to get support</b></p>
@@ -117,7 +135,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 
 #### Original (0) - Author: [`tdubic`][tdubic]
 
-> Forum: [Thread][MOD:0:thread] - Download: [Dropbox][MOD:0:dnload] - Source: [Dropbox][MOD:0:source]  
+> Forum: [Thread][MOD:0:thread] - Download: [CurseForge][MOD:0:dnload] - Source: [CurseForge][MOD:0:source]  
 > License: [![License][LIC:0:shd]][LIC:0:url] ![License][LIC:0:log]
 
 ---
@@ -131,7 +149,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/changelog.md  "Changelog"
 [MOD:contr]: https://github.com/zer0Kerbal/.github/blob/master/.github/CONTRIBUTING.md "Contributing"
 [MOD:discu]: https://github.com/zer0Kerbal/ProbiTronics/discussions "Discussions"
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/192742-*/ "ProbiTronics Forum Thread"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/191428-*/ "ProbiTronics Forum Thread"
 [MOD:issue]: https://github.com/zer0Kerbal/ProbiTronics/issues "Issues"
 [MOD:licns]: https://github.com/zer0Kerbal/ProbiTronics/blob/master/LICENSE "Github License"
 [MOD:notic]: https://zer0kerbal.github.io/ProbiTronics/Notices "GitHub Pages"
@@ -140,14 +158,12 @@ or [![CKAN][CKAN:img]][CKAN:url]
 <!--- mod -->
 [MOD:shd:latest]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/json/mod.json
 
-[CODE:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/json/code.json
-
 [MOD:pages:shd]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=191428&logo=github "GitHub IO"
 
 <!--- mod provenance -->
-[MOD:0:source]: https://www.dropbox.com/s/85og3xdhark7com/ProbiTronics5.rar?dl=0 "Dropbox"
-[MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/64520-*/ "KSP Forum"  
-[MOD:0:dnload]: https://www.dropbox.com/s/85og3xdhark7com/ProbiTronics5.rar?dl=0 "Dropbox"  
+[MOD:0:source]: https://www.curseforge.com/kerbal/ksp-mods/ProbiTronics"CurseForge"
+[MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/64520-*/ "KSP Forum"
+[MOD:0:dnload]: https://www.curseforge.com/kerbal/ksp-mods/ProbiTronics"CurseForge"
 
 <!--- license provenance -->
 [LIC:0:url]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
@@ -157,10 +173,6 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [LIC:url]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
 [LIC:log]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
 [LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/json/license.json "CC BY-NC-SA 4.0"
-
-<!--- AVC -->
-[AVC:shd]: https://img.shields.io/badge/KSP-AVC--supported-00C961.svg?labelColor=black&style=plastic
-[AVCVLD:shd]: https://github.com/zer0Kerbal/ProbiTronics/workflows/Validate%20AVC%20.version%20files/badge.svg?labelColor=black&style=plastic "AVC-Valid - thank you to DasSkelett"
 
 <!--- CKAN -->
 [CKAN:img]: https://i.postimg.cc/x8XSVg4R/sj507JC.png "CKAN"
@@ -174,7 +186,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [GITHUB:url]: https://github.com/zer0Kerbal/ProbiTronics/ "GitHub"
 [GITHUB:shd]: https://img.shields.io/badge/Github-Link-CCFF00.svg?labelColor=181717&style=plastic&logo=github "GitHub"
 
-[SPCDCK:url]: http://spacedock.info/mod/2379 "SpaceDock"
+[SPCDCK:url]: http://spacedock.info/mod/3029 "SpaceDock"
 [SPCDCK:shd]:  https://img.shields.io/badge/SpaceDock-Link-CCFF00.svg?labelColor=181717&style=plastic&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCA1MDAgNTAwIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA1MDAgNTAwOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+Cgkuc3Qwe2ZpbGw6IzFBMUExQTt9Cgkuc3Qxe2ZpbGw6IzA1Nzg5Mzt9Cgkuc3Qye2ZpbGw6IzA3QUNEMjt9Cjwvc3R5bGU+CjxwYXRoIGlkPSJYTUxJRF8xXyIgY2xhc3M9InN0MCIgZD0iTTQwMCwwLjZIMTAwYy01NSwwLTEwMCw0NS0xMDAsMTAwVjQwMGMwLDU1LDQ1LDEwMCwxMDAsMTAwaDMwMGM1NSwwLDEwMC00NSwxMDAtMTAwVjEwMC42CglDNTAwLDQ1LjYsNDU1LDAuNiw0MDAsMC42eiIvPgo8ZyBpZD0iWE1MSURfNl8iPgoJPGcgaWQ9IlhNTElEXzlfIj4KCQk8cGF0aCBpZD0iWE1MSURfMTdfIiBjbGFzcz0ic3QxIiBkPSJNMTgzLjMsMTY1LjljNi40LTMuNiwxNi45LTMuNiwyMy4zLDBMNDY3LjQsMzE0YzYuNCwzLjYsNi40LDkuNiwwLDEzLjJMMjA2LjYsNDc0LjQKCQkJYy02LjQsMy42LTE3LjcsNi42LTI1LDYuNmgtNDQuOGMtNy40LDAtOC4xLTMtMS43LTYuNmwyNjEtMTQ3LjJjNi40LTMuNiw2LjQtOS42LDAtMTMuMkwxNzEsMTg2Yy02LjQtMy42LTYuNC05LjYsMC0xMy4yCgkJCUwxODMuMywxNjUuOXoiLz4KCTwvZz4KCTxnIGlkPSJYTUxJRF84XyI+CgkJPHBhdGggaWQ9IlhNTElEXzE2XyIgY2xhc3M9InN0MiIgZD0iTTMxOC44LDE5Yy03LjQsMC0xOC42LDIuOC0yNSw2LjRMMzMsMTczLjRjLTYuNCwzLjYtNi40LDkuNSwwLDEzLjFsMjYwLjcsMTQ3LjEKCQkJYzYuNCwzLjYsMTYuOSwzLjYsMjMuMywwbDEyLjMtN2M2LjQtMy42LDYuNC05LjUsMC0xMy4ybC0yMjUuMS0xMjdjLTYuNC0zLjYtNi40LTkuNSwwLTEzLjJMMzY1LjYsMjUuNGM2LjQtMy42LDUuNi02LjQtMS43LTYuNAoJCQlIMzE4Ljh6Ii8+Cgk8L2c+CjwvZz4KPC9zdmc+Cg==  "SpaceDock"
 
 <!-- Kerbal Space Program -->
