@@ -19,7 +19,7 @@ updated: 15 May 2022 -->
 
 ## Parts Invoice
 
-This add-on adds fourteen (15) probe and reusability focused parts
+This add-on adds fourteen (14) probe and reusability focused parts
 
 ---
 
