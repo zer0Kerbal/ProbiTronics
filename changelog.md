@@ -31,6 +31,8 @@
     * [ModuleCoreHeat]
     * [radiatorMax] = 1.5
 
+---
+
 ## Version 0.9.99.0-adoption `<They Did What!? Where?!>` edition
 
 * 21 May 2022  
