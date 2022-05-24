@@ -29,23 +29,32 @@ This add-on adds fourteen (15) probe and reusability focused parts
   * [pt-prs-3750]
 
   <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-prs-1250_icon.png" alt="pt-prs-1250" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-prs-2500_icon.png" alt="pt-prs-2500" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-prs-3750_icon.png" alt="pt-prs-3750" width="25%" height="25%" />
+
 * Rover Body
   * [pt-rover-body-721]
-<img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/ELSurveyStake_icon.png" alt="SurveyStake" width="25%" height="25%" />
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-rover-body-721_icon.png" alt="pt-rover-body-721" width="25%" height="25%" />
+
 * Service Modules
   * [pt-servicemodule-1250]
   * [pt-servicemodule-2500]
-<img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/ELSurveyStake_icon.png" alt="SurveyStake" width="25%" height="25%" />
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-servicemodule-1250_icon.png" alt="pt-servicemodule-1250" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-servicemodule-2500_icon.png" alt="pt-servicemodule-2500" width="25%" height="25%" />
+
 * Leg Adapter
   * [pt-legAdapter-1250]
   * [pt-legAdapter-2500]
-<img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/ELSurveyStake_icon.png" alt="SurveyStake" width="25%" height="25%" />
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-legAdapter-1250_icon.png" alt="pt-legAdapter-1250" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-legAdapter-2500_icon.png" alt="pt-legAdapter-2500" width="25%" height="25%" />
+
 * Probe
   * Ball
-    * [pt-parachute-ball]
     * [pt-probe-ball]
+    * [pt-probe-ball-parachute]
     * [pt-probe-ball-shield]
-<img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/ELSurveyStake_icon.png" alt="SurveyStake" width="25%" height="25%" />
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-probe-ball-parachute_icon.png" alt="pt-probe-ball-parachute" width="25%"  height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-probe-ball_icon.png" alt="pt-probe-ball" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-probe-ball-shield_icon.png" alt="pt-probe-ball-shield" width="25%" height="25%" />
+  
   * Automated Transport Vehicle
     * [pt-probe-atv]
 
