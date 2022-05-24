@@ -56,7 +56,6 @@
   * duplicate models
 * relocate part.cfg to Parts/
 * add @thumbs
-* closes #34 - add @thumbs
 * closes #28 - Asset Updates
 
 ### Localization

@@ -19,33 +19,55 @@ updated: 15 May 2022 -->
 
 ## Parts Invoice
 
-This add-on adds nine (9) resource parts
+This add-on adds fourteen (15) probe and reusability focused parts
 
 ---
 
-* Mallet *(Only with Kerbal Inventory System installed)*
-* SurveyStake
+* Probe Reusablility Stack
+  * [pt-prs-1250]
+  * [pt-prs-2500]
+  * [pt-prs-3750]
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/NotSoSimpleConstruction/master/GameData/NotSoSimpleConstruction/Parts/%40thumbs/ElMallet_icon.png" alt="Mallet" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/NotSoSimpleConstruction/master/GameData/NotSoSimpleConstruction/Parts/%40thumbs/ELSurveyStake_icon.png" alt="SurveyStake" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-prs-1250_icon.png" alt="pt-prs-1250" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-prs-2500_icon.png" alt="pt-prs-2500" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-prs-3750_icon.png" alt="pt-prs-3750" width="25%" height="25%" />
 
-* MicroPad
-* OrbitalDock
+* Rover Body
+  * [pt-rover-body-721]
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/NotSoSimpleConstruction/master/GameData/NotSoSimpleConstruction/Parts/%40thumbs/ELMicroPad_icon.png" alt="MicroPad" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/NotSoSimpleConstruction/master/GameData/NotSoSimpleConstruction/Parts/%40thumbs/ELOrbitalDock_icon.png" alt="OrbitalDock" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-rover-body-721_icon.png" alt="pt-rover-body-721" width="25%" height="25%" />
 
-* RecycleBin, large
-* RecycleBin, small
+* Service Modules
+  * [pt-servicemodule-1250]
+  * [pt-servicemodule-2500]
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/NotSoSimpleConstruction/master/GameData/NotSoSimpleConstruction/Parts/%40thumbs/ELRecycleBin.Large_icon.png" alt="RecycleBin Large" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/NotSoSimpleConstruction/master/GameData/NotSoSimpleConstruction/Parts/%40thumbs/ELRecycleBin_icon.png" alt="RecycleBin" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-servicemodule-1250_icon.png" alt="pt-servicemodule-1250" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-servicemodule-2500_icon.png" alt="pt-servicemodule-2500" width="25%" height="25%" />
 
-* Auger SmallAuger TinyAuger
+* Leg Adapter
+  * [pt-legAdapter-1250]
+  * [pt-legAdapter-2500]
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/NotSoSimpleConstruction/master/GameData/NotSoSimpleConstruction/Parts/%40thumbs/ELTinyAuger_icon.png" alt="TinyAuger" width="25%" height="25%" />   <img src="https://raw.githubusercontent.com/zer0Kerbal/NotSoSimpleConstruction/master/GameData/NotSoSimpleConstruction/Parts/%40thumbs/ELSmallAuger_icon.png" alt="SmallAuger" width="25%" height="25%" />   <img src="https://raw.githubusercontent.com/zer0Kerbal/NotSoSimpleConstruction/master/GameData/NotSoSimpleConstruction/Parts/%40thumbs/ELAuger_icon.png" alt="Auger" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-legAdapter-1250_icon.png" alt="pt-legAdapter-1250" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-legAdapter-2500_icon.png" alt="pt-legAdapter-2500" width="25%" height="25%" />
 
----
+* Probe
+  * Ball
+    * [pt-probe-ball]
+    * [pt-probe-ball-parachute]
+    * [pt-probe-ball-shield]
 
-[top](#Parts-Invoice)
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-probe-ball-parachute_icon.png" alt="pt-probe-ball-parachute" width="25%"  height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-probe-ball_icon.png" alt="pt-probe-ball" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-probe-ball-shield_icon.png" alt="pt-probe-ball-shield" width="25%" height="25%" />
+  
+  * Automated Transport Vehicle
+    * [pt-probe-atv]
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-probe-atv_icon.png" alt="pt-probe-atv" width="25%" height="25%" />
+
+  * G Probe
+    * [pt-probe-g]
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-probe-g_icon.png" alt="pt-probe-g" width="25%" height="25%" />
+
+  * Sample Return Probe
+    * [pt-probe-sample-1250]
+  
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-probe-sample-1250_icon.png" alt="pt-probe-sample-1250" width="25%" height="25%" />
 
 <!-- this file CC BY-ND 4.0 by zer0Kerbal -->
-
-<!-- ![Cargo Bay](/GameData/MiniSampleReturnCapsule/Parts/@thumbs/msrc-cargoBay_icon.png) -->
