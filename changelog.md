@@ -10,7 +10,7 @@
 | spacedock  | (https://spacedock.info/mod/3029)                                 |
 | ckan       | ProbiTronics                                                      |
 
-## Version 0.9.99.0-adoption `<EDITION>` edition
+## Version 0.9.99.0-adoption `<They Did What!? Where?!>` edition
 
 * Jul 20, 2014
 * Released for Kerbal Space Program 0.24.0
@@ -32,9 +32,13 @@
 
 ### Parts
 
+* Updating
+* Linting
+* Dusting
+* Vacumming
+* Painting
 * [TACS-LS.cfg] v1.0.1.0
   * lots of stray right/closing braces `}`
-
 * [kerbalOperatingSystem.cfg]
   * missing closes/right bracket `]`
 * [BallProbe.cfg]
@@ -91,7 +95,7 @@
 ### Status
 
 * Issues
-  * closes #3 - ProbiTronics 0.9.99.0-adoption `<EDITION>` edition
+  * closes #3 - ProbiTronics 0.9.99.0-adoption `<They Did What!? Where?!>` edition
   * closes #4 - 0.9.99.0 Verify Legal Mumbo Jumbo
   * closes #5 - 0.9.99.0 Create Documentation
   * closes #6 - 0.9.99.0 Create Social Media
