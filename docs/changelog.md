@@ -10,10 +10,10 @@
 | spacedock  | (https://spacedock.info/mod/3029)                                 |
 | ckan       | ProbiTronics                                                      |
 
-## Version 0.9.99.0-adoption `<EDITION>` edition
+## Version 0.9.99.0-adoption `<They Did What!? Where?!>` edition
 
-* Jul 20, 2014
-* Released for Kerbal Space Program 0.24.0
+* 21 May 2022  
+* Release for Kerbal Space Program [KSP 1.12.x]
 
 ### docs/
 
@@ -30,6 +30,20 @@
   * [_config.yml]
   * closes #29 - docs/
 
+### Parts
+
+* Updating
+* Linting
+* Dusting
+* Vacumming
+* Painting
+* [TACS-LS.cfg] v1.0.1.0
+  * lots of stray right/closing braces `}`
+* [kerbalOperatingSystem.cfg]
+  * missing closes/right bracket `]`
+* [BallProbe.cfg]
+  * [description] accidentially split in twain, superklue applied
+
 ### Asset Updates
 
 * create Assets/ folder
@@ -38,7 +52,7 @@
   * models to unique names
   * textures to unique names
 * update
-  * model pointers (.png et al to .dds)
+  * model pointers (.png et al to .dds) (17.5mb to 6.93mb)
   * model texture pointers to new names
 * relocate assets to Assets/
 * eliminate
@@ -46,22 +60,47 @@
   * duplicate models
 * relocate part.cfg to Parts/
 * add @thumbs
+* closes #34 - add @thumbs
 * closes #28 - Asset Updates
 
 ### Localization
 
-* Part Localization
+* Create
+  * Localization/
+    * <en-us.cfg>
+    * [readme.md] v2.1.2.0
+    * [quickstart.md] v1.0.1.1
+  * agency
+  * flags
+* run localizer
+  * Parts to localize
+    * [pt-servicemodule-2500.cfg]
+    * [pt-legAdapter-1250.cfg]
+    * [pt-legAdapter-2500.cfg]
+    * [pt-probe-atv.cfg]
+    * [pt-probe-ball.cfg]
+    * [pt-probe-ball-parachute.cfg]
+    * [pt-probe-ball-shield.cfg]
+    * [pt-probe-g.cfg]
+    * [pt-probe-sample-1250.cfg]
+    * [pt-prs-1250.cfg]
+    * [pt-prs-2500.cfg]
+    * [pt-prs-3750.cfg]
+    * [pt-rover-body-721.cfg]
+    * [pt-servicemodule-1250.cfg]
   * closes #24 - Part Localization
   * closes #8 - English <us-en.cfg>
-  * closes #7 - Localization - Master
+  * updates #7 - Localization - Master
 
 ### Status
 
 * Issues
-  * closes #3 - ProbiTronics 0.9.99.0-adoption `<EDITION>` edition
+  * closes #3 - ProbiTronics 0.9.99.0-adoption `<They Did What!? Where?!>` edition
   * closes #4 - 0.9.99.0 Verify Legal Mumbo Jumbo
   * closes #5 - 0.9.99.0 Create Documentation
   * closes #6 - 0.9.99.0 Create Social Media
+
+---
 
 ## Version 0.2.2.0-release `<First Contract>`
 
