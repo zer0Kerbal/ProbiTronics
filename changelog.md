@@ -64,8 +64,8 @@
 * Create
   * Localization/
     * <en-us.cfg>
-    * [readme.md] v2.1.1.0
-    * [quickstart.md] v1.0.1.0
+    * [readme.md] v2.1.2.0
+    * [quickstart.md] v1.0.1.1
   * agency
   * flags
 * run localizer
