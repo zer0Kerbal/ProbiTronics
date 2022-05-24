@@ -86,7 +86,7 @@
     * [pt-servicemodule-1250.cfg]
   * closes #24 - Part Localization
   * closes #8 - English <us-en.cfg>
-  * closes #7 - Localization - Master
+  * updates #7 - Localization - Master
 
 ### Status
 
