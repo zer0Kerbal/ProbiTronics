@@ -48,7 +48,7 @@
   * models to unique names
   * textures to unique names
 * update
-  * model pointers (.png et al to .dds)
+  * model pointers (.png et al to .dds) (17.5mb to 6.93mb)
   * model texture pointers to new names
 * relocate assets to Assets/
 * eliminate
