@@ -12,8 +12,8 @@
 
 ## Version 0.9.99.0-adoption `<They Did What!? Where?!>` edition
 
-* Jul 20, 2014
-* Released for Kerbal Space Program 0.24.0
+* 21 May 2022  
+* Release for Kerbal Space Program [KSP 1.12.x]
 
 ### docs/
 
@@ -99,6 +99,8 @@
   * closes #4 - 0.9.99.0 Verify Legal Mumbo Jumbo
   * closes #5 - 0.9.99.0 Create Documentation
   * closes #6 - 0.9.99.0 Create Social Media
+
+---
 
 ## Version 0.2.2.0-release `<First Contract>`
 
