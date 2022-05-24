@@ -10,6 +10,27 @@
 | spacedock  | (https://spacedock.info/mod/3029)                                 |
 | ckan       | ProbiTronics                                                      |
 
+## Version 0.9.99.1-prerelease `<They Did What!? Where?!>` edition
+
+* 23 May 2022  
+* Release for Kerbal Space Program [KSP 1.12.x]
+
+### Changes
+
+* [pt-rover-body-721.cfg]
+  * [entryCost] up from 6200 to 30000
+  * [cost] up from 5250 to 10120
+  * [mass] down from 0.37 to 0.25
+  * [ModuleCommand]
+    * consumes [ElectricChange] up from 0.005 to 0.04
+  * [ModuleReactionWheel]
+    * consumes [ElectricChange] down from 0.25 to 0.09
+  * Add
+    * [ModuleKerbNetAccess]
+    * [ModuleDataTransmitter]
+    * [ModuleCoreHeat]
+    * [radiatorMax] = 1.5
+
 ## Version 0.9.99.0-adoption `<They Did What!? Where?!>` edition
 
 * 21 May 2022  
