@@ -61,7 +61,29 @@
 
 ### Localization
 
-* Part Localization
+* Create
+  * Localization/
+    * <en-us.cfg>
+    * [readme.md] v2.1.1.0
+    * [quickstart.md] v1.0.1.0
+  * agency
+  * flags
+* run localizer
+  * Parts to localize
+    * [pt-servicemodule-2500.cfg]
+    * [pt-legAdapter-1250.cfg]
+    * [pt-legAdapter-2500.cfg]
+    * [pt-probe-atv.cfg]
+    * [pt-probe-ball.cfg]
+    * [pt-probe-ball-parachute.cfg]
+    * [pt-probe-ball-shield.cfg]
+    * [pt-probe-g.cfg]
+    * [pt-probe-sample-1250.cfg]
+    * [pt-prs-1250.cfg]
+    * [pt-prs-2500.cfg]
+    * [pt-prs-3750.cfg]
+    * [pt-rover-body-721.cfg]
+    * [pt-servicemodule-1250.cfg]
   * closes #24 - Part Localization
   * closes #8 - English <us-en.cfg>
   * closes #7 - Localization - Master
