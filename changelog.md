@@ -10,9 +10,9 @@
 | spacedock  | (https://spacedock.info/mod/3029)                                 |
 | ckan       | ProbiTronics                                                      |
 
-## Version 0.9.99.1-prerelease `<They Did What!? Where?!>` edition
+## Version 0.9.99.1-prerelease `<Onlar ne yaptı!? Neresi?!>` edition
 
-* 23 May 2022  
+* 03 Jun 2022
 * Release for Kerbal Space Program [KSP 1.12.x]
 
 ### Changes
