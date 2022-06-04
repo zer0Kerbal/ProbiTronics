@@ -51,7 +51,7 @@ updated: 10 May 2022
 
 <ul>
   <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png " alt="English" style="zoom:150%;" /> English</li>
-  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/TR.png " alt="Türk" style="zoom:150%;" /> Turkish (Türk) Teşekkürler, provided by <a href="https://github.com/urexpect">urespect</a></li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/TR.png " alt="Türk" style="zoom:150%;" /> Turkish (Türk) provided by <a href="https://github.com/urexpect">urexpect</a>, Teşekkürler!</li>
   <li><small>Additions and corrections welcome!</small></li>
 </ul>
 
