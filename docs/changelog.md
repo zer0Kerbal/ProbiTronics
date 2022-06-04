@@ -24,12 +24,30 @@ CC BY-ND 4.0 by zer0Kerbal
 | spacedock  | (https://spacedock.info/mod/3029)                                 |
 | ckan       | ProbiTronics                                                      |
 
-## Version 0.9.99.1-prerelease `<They Did What!? Where?!>` edition
+## Version 0.9.99.1-prerelease `<Onlar ne yaptı!? Neresi?!>` edition
 
-* 23 May 2022  
+* 03 Jun 2022
 * Release for Kerbal Space Program [KSP 1.12.x]
 
-### Changes
+### docs/
+
+* Update
+  * add Turkish (Türk)
+    * [Attribution.md] v1.0.6.0
+    * [Localizations.md] v1.1.3.1
+    * [readme]
+    * [releaseNotes]
+
+### Localization
+
+* Create
+  * Localization/
+    * <tr-tr.cfg>
+    * by [urexpect](https://github.com/urexpect), Teşekkürler!
+  * closes #44 - Turkish (Türk) <tr-tr.cfg>
+  * updates #7 - Localization - Master
+
+### Update
 
 * [pt-rover-body-721.cfg]
   * [entryCost] up from 6200 to 30000
@@ -44,6 +62,14 @@ CC BY-ND 4.0 by zer0Kerbal
     * [ModuleDataTransmitter]
     * [ModuleCoreHeat]
     * [radiatorMax] = 1.5
+
+### Status
+
+* Issues
+  * closes #40 - ProbiTronics (PT) 0.9.99.1-prerelease `<Onlar ne yaptı!? Neresi?!>` edition`
+  * closes #41 - 0.9.99.1 Verify Legal Mumbo Jumbo
+  * closes #42 - 0.9.99.1 Update Documentation
+  * closes #43 - 0.9.99.1 Update Social Media
 
 ---
 
