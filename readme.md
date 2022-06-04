@@ -75,7 +75,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 ### Localization
 
 >* ![English][EN] English
->* ![Türk][TR] Turkish (Türk) - *Teşekkürler*, provided by [urespect][urespect]
+>* ![Türk][TR] Turkish (Türk) - provided by [urexpect][urexpect], *Teşekkürler*!
 >* ***your translation here***
 >
 > HELP WANTED - See the [README in the Localization folder][lreadme] or the [Quickstart Guide][qstart] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
@@ -237,7 +237,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [youtube]: https://www.youtube.com/channel/UCp9c8IaK4Gjgfj3O9QxrbDw
 
 [tdubic]:  https://forum.kerbalspaceprogram.com/index.php?/profile/102159-*/ "tdubic"
-[urespect]: https://github.com/urexpect "urespect"
+[urexpect]: https://github.com/urexpect "urexpect"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
 ---
