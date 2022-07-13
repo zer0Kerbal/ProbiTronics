@@ -54,7 +54,11 @@
   * [node_attach]
     * now = 0.0, 0.0, 0.0, 0.0, ***-1.0***, 0.0, 0, 1
     * was = 0.0, 0.0, 0.0, 0.0, ***1.0***, 0.0, 0, 1
+* [pt-legAdapter-1250.cfg] and [pt-legAdapter-2500.cfg]
+  * [ModuleToggleCrossfeed]
+    * remove "" from localization strings
   * closes #52 - [Bug 🐞]: Bottom attach point of Service Module 1 Mk2 Doesn't attach
+* add [DRAG_CUBES]
 
 ### Status
 
