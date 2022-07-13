@@ -11,5 +11,5 @@
 - [Localizations](Localizations.md)
 - [ManualInstallation](ManualInstallation.md)
 - [Notices](Notices.md)
-- [PartInvoice](PartInvoice.md)
+- [Parts-Catalog](Parts-Catalog.md)
 - [changelog](changelog.md)
