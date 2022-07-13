@@ -24,6 +24,78 @@ CC BY-ND 4.0 by zer0Kerbal
 | spacedock  | (https://spacedock.info/mod/3029)                                 |
 | ckan       | ProbiTronics                                                      |
 
+## Version 0.9.99.2-prerelease `<MystLeissa>` edition
+
+* 12 Jul 2022
+* Release for Kerbal Space Program [KSP 1.12.x]
+
+### Summary
+
+* Four New Parts
+* 1.25m Service Module bottom node repaired
+
+### Parts
+
+* NEW
+  * [pt-servicemodule-0625.cfg] v1.0.0.0
+  * [pt-servicemodule-3750.cfg] v1.0.0.0
+  * [pt-prs-03125.cfg] v1.0.0.0
+  * [pt-prs-0625.cfg] v1.0.0.0
+  * add @thumbs
+* closes #53 - New Parts
+
+### docs/
+
+* Updated [README.md]
+* Replace [PartsInvoice.md] v1.1.3.2 with [PartsCatalog.md] v1.1.4.0
+
+### Localization
+
+* Update
+  * Localization/
+    * <tr-tr.cfg> v1.0.1.0
+      * might need some tweaking
+    * <en-us.cfg> v1.0.1.0
+      * might need some tweaking
+  * updates #7 - Localization - Master
+
+### Update
+
+* [pt-servicemodule-2500] v1.0.1.0
+  * [advFlightControl] down from [specializedControl]
+  * [node_stack_top]
+    * now = 0.0, 1.20, 0.0, 0.0, 1.0, 0.0, 2, 1
+    * was = 0.0, 1.12, 0.0, 0.0, 1.0, 0.0, 2, 1
+* [pt-servicemodule-1250.cfg] v1.0.1.0
+  * FLIP
+  * [node_stack_bottom] pointing wrong way
+  * thank you to [@MystLeissa](https://github.com/MystLeissa) for the report
+  * [node_attach]
+    * now = 0.0, 0.0, 0.0, 0.0, ***-1.0***, 0.0, 0, 1
+    * was = 0.0, 0.0, 0.0, 0.0, ***1.0***, 0.0, 0, 1
+* [pt-legAdapter-1250.cfg] and [pt-legAdapter-2500.cfg]
+  * [ModuleToggleCrossfeed]
+    * remove "" from localization strings
+  * closes #52 - [Bug 🐞]: Bottom attach point of Service Module 1 Mk2 Doesn't attach
+* Add
+  * [DRAG_CUBES]
+  * [ModuleCargoPart]
+    * packedVolume = -1
+  * [ModuleInventoryPart]
+    * InventorySlots = 3
+    * packedVolumeLimit = 180
+    * will need future adjustments
+
+### Status
+
+* Issues
+  * closes #48 - ProbiTronics (PT) 0.9.99.2-prerelease `<MystLeissa>` edition`
+  * closes #49 - 0.9.99.2 Verify Legal Mumbo Jumbo
+  * closes #50 - 0.9.99.2 Update Documentation
+  * closes #51 - 0.9.99.2 Update Social Media
+
+---
+
 ## Version 0.9.99.1-prerelease `<Onlar ne yaptı!? Neresi?!>` edition
 
 * 03 Jun 2022

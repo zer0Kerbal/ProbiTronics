@@ -1,11 +1,11 @@
 ---
-permalink: /PartInvoice.html
-title: Parts Invoice
+permalink: /PartCatalog.html
+title: Parts Catalog
 description: Bill, what are going to do tonight? Why Jeb, the same thing we do every night, Take over the world!
-tags: parts,invoice,parts-list,packing,page,kerbal,ksp,zer0Kerbal,zedK
+tags: parts,invoice,catalog,parts-list,packing,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
-<!-- PartInvoice.md v1.1.3.2
+<!-- PartsCatalog.md v1.1.4.0
 ProbiTronics (PT)
 created: 01 Feb 2022
 updated: 15 May 2022 -->
@@ -17,13 +17,18 @@ updated: 15 May 2022 -->
 
 [Home](./index.md)
 
-## Parts Invoice
+## Parts Catalog
 
-This add-on adds fourteen (14) probe and reusability focused parts
+This add-on adds eighteen (18) probe and reusability focused parts
 
 ---
 
 * Probe Reusablility Stack
+  * [pt-prs-03125.cfg]
+  * [pt-prs-0625.cfg]
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-prs-03125_icon.png" alt="pt-prs-03125" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-prs-0625_icon.png" alt="pt-prs-0625" width="25%" height="25%" />
+
   * [pt-prs-1250]
   * [pt-prs-2500]
   * [pt-prs-3750]
@@ -36,10 +41,15 @@ This add-on adds fourteen (14) probe and reusability focused parts
   <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-rover-body-721_icon.png" alt="pt-rover-body-721" width="25%" height="25%" />
 
 * Service Modules
+  * [pt-servicemodule-0625]
   * [pt-servicemodule-1250]
-  * [pt-servicemodule-2500]
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-servicemodule-1250_icon.png" alt="pt-servicemodule-1250" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-servicemodule-2500_icon.png" alt="pt-servicemodule-2500" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-servicemodule-0625_icon.png" alt="pt-servicemodule-0625" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-servicemodule-1250_icon.png" alt="pt-servicemodule-1250" width="25%" height="25%" />
+
+  * [pt-servicemodule-2500]
+  * [pt-servicemodule-3750]
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-servicemodule-2500_icon.png" alt="pt-servicemodule-2500" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-servicemodule-3750_icon.png" alt="pt-servicemodule-3750" width="25%" height="25%" />
 
 * Leg Adapter
   * [pt-legAdapter-1250]
@@ -69,5 +79,9 @@ This add-on adds fourteen (14) probe and reusability focused parts
     * [pt-probe-sample-1250]
   
   <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-probe-sample-1250_icon.png" alt="pt-probe-sample-1250" width="25%" height="25%" />
+
+---
+
+[top](#Parts-Catalog)
 
 <!-- this file CC BY-ND 4.0 by zer0Kerbal -->
