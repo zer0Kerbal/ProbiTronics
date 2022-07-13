@@ -1,7 +1,7 @@
-<!-- readme.md v1.6.8.2
+<!-- readme.md v1.6.9.2
 ProbiTronics (PT)
 created: 17 Jul 2017
-updated: 03 Jun 2022 -->
+updated: 05 Jul 2022 -->
 
 <!--this file: CC BY-ND 4.0 by zer0Kerbal-->
 
@@ -28,13 +28,23 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 * SP-1 - reusable sample probe for bringing samples back to Kerbin.
 * LA-1m and LA-2m - Leg Adapter give you ability to use stock legs on longer engines.
 * RB-721 - more than just a rover body
-* SM MkI
-  * Service Module for Command Pod MkI
-* SM MkII
-  * Service Module for Command Pod Mk I and Command pod MK1-3
-* RU-1m and RU-2m
+* Service Modules
+* Mk0
+  * 0.625m
+  * Command Pod Mk I
+* MkI
+  * 1.25m
+* MkII
+  * 2.5m
+  * Command pod MK1-3
+* MkIII
+  * 3.75m
+  * thermometer sensor
+  * barameter sensor
+* Probe Reusability Stack
+  * 0.3125m, 0.625m 1.25m, 2.5m, 3.75m
   * probe, decoupler and parachute compartment in one
-  * With these parts you can make your 1m and 2m stock rocket much more reusable
+  * With these parts you can make your rocket much more reusable
 * Ball Probe
   * small probe for taking data from planets atmosphere
   * Science:
@@ -58,6 +68,8 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### See More
 
+* See our [Parts Catalog][MOD:parts] for part pictures
+* For more images, see our [Marketing Slicks][MOD:markt]
 * Discussions and news on this mod: See [Discussions][MOD:discu] or [KSP Forums][MOD:forum]
 * Changelog Summary for more details of changes : See [ChangeLog][MOD:chlog]
 * Known Issues for more details of feature requests and known issues : See [Known Issues][MOD:issue]
@@ -66,7 +78,8 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 ### Help Wanted
 
 > * Compatibility patches
-> * Variant Textures and code to make it work always welcome!
+> * Contracts for these glorious parts
+> * Variant Textures
 > * Model updates to Unity 2019
 > * Have a request? Glad to have them, kindly submit through [GitHub][MOD:issue].
 
@@ -91,6 +104,9 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
     <img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" width="15%" height="15%">
 </a>
 
+Whilst I agree CKAN is a great mod for those that can't use zip tools. I take no part, nor am I interested in maintaining the CKAN mod metadata for my mods.
+Please don't ask me about it but refer to the CKAN mod thread if you are having issues with CKAN or the metadata it maintains. Beware, CKAN *can* really mess up though it tries very, very, very hard not to.
+
 or [![CKAN][CKAN:img]][CKAN:url]
 
 ### Dependencies
@@ -102,8 +118,8 @@ or [![CKAN][CKAN:img]][CKAN:url]
 * Either [^3]
   * [Module Manager][mm]
   * [Module Manager /L][mml]
-* [On Demand Fuel Cells (ODFC)][ODFC]
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
+* [On Demand Fuel Cells (ODFC)][ODFC]
 * [TweakScale (TWK)][twk]
 
 <div style="border:0.5px solid Tomato; background-color: #BADA55; color: #FF0000; text-align:center">
@@ -151,8 +167,10 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/191428-*/ "ProbiTronics Forum Thread"
 [MOD:issue]: https://github.com/zer0Kerbal/ProbiTronics/issues "Issues"
 [MOD:licns]: https://github.com/zer0Kerbal/ProbiTronics/blob/master/LICENSE "Github License"
-[MOD:notic]: https://zer0kerbal.github.io/ProbiTronics/Notices "GitHub Pages"
-[MOD:pages]: https://zer0kerbal.github.io/ProbiTronics/ "GitHub Pages"
+[MOD:markt]: https://zer0kerbal.github.io/ProbiTronics/Marketing "Marketing Slicks"
+[MOD:notic]: https://zer0kerbal.github.io/ProbiTronics/Notices "Notices"
+[MOD:parts]: https://zer0kerbal.github.io/ProbiTronics/PartsCatalog "Parts Catalog"
+[MOD:pages]: https://zer0kerbal.github.io/ProbiTronics "GitHub Pages"
 
 <!--- mod -->
 [MOD:shd:latest]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/json/mod.json
@@ -244,7 +262,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 
 #### Connect with me
 
-Track progress: issues [here][MOD:issue] and projects [here](https://github.com/zer0Kerbal/MOD-NAME/projects/) along with **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
+Track progress: issues [here][MOD:issue] and projects [here](https://github.com/zer0Kerbal/ProbiTronics/projects/) along with **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
 
 [<img align="left" alt="zer0Kerbal | kerbalspaceprogram.com" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/32/kerbalspaceprogram_93898.png" />][zer0Kerbal] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge] [<img align="left" alt="zer0Kerbal | reddit" width="32px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-reddit-4661631_122483.png" />][reddit] [<img align="left" alt="zer0Kerbal | Patreon" width="32px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" />][PATREON:url] [<img align="left" alt="zer0Kerbal | YouTube" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube] [<img align="left" alt="zer0Kerbal | Twitch" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" />][twitch] [<img align="left" alt="zer0Kerbal | PayPal" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/paypal_logo_icon_168055.png" />][PAYPAL:url] [<img align="left" alt="zer0Kerbal | Buy Me a Coffee" width="32px" src="https://www.buymeacoffee.com/assets/img/bmc-meta-new/new/favicon.ico" />][BMCC:url] [<img align="left" alt="zer0Kerbal | Twitter" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/32/Twitter_icon-icons.com_66803.png" />][twitter]
 
