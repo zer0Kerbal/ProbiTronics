@@ -15,6 +15,7 @@ updated: 05 Jul 2022 -->
 
 ProbiTronics is all about specialized probes and reusability parts. For Kerbal Space Program.
 
+This add-on adds eighteen (18) probe and reusability focused parts to the KSP game.
 
 ## By [`zer0Kerbal`][zer0Kerbal], originally by [`tdubic`][tdubic]
 
@@ -23,7 +24,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/img/atv-kerbal-space-program2.jpg" alt="ProbiTronics" width="75%" height="75%">
 <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/img/HeroLogo_1920x1920.png" alt="ProbiTronics" width="75%" height="75%">
 
-### Part List
+### Part Catalog
 
 * SP-1 - reusable sample probe for bringing samples back to Kerbin.
 * LA-1m and LA-2m - Leg Adapter give you ability to use stock legs on longer engines.
