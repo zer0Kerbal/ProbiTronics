@@ -10,10 +10,15 @@
 | spacedock  | (https://spacedock.info/mod/3029)                                 |
 | ckan       | ProbiTronics                                                      |
 
-## Version 0.9.99.1-prerelease `<MystLeissa>` edition
+## Version 0.9.99.2-prerelease `<MystLeissa>` edition
 
 * 12 Jul 2022
 * Release for Kerbal Space Program [KSP 1.12.x]
+
+### Summary
+
+* Four New Parts
+* 1.25m Service Module bottom node repaired
 
 ### Parts
 
@@ -50,7 +55,7 @@
 * [pt-servicemodule-1250.cfg] v1.0.1.0
   * FLIP
   * [node_stack_bottom] pointing wrong way
-  * thank you to [@MystLeissa](https://github.com/MystLeissa) for the report 
+  * thank you to [@MystLeissa](https://github.com/MystLeissa) for the report
   * [node_attach]
     * now = 0.0, 0.0, 0.0, 0.0, ***-1.0***, 0.0, 0, 1
     * was = 0.0, 0.0, 0.0, 0.0, ***1.0***, 0.0, 0, 1
@@ -76,7 +81,6 @@
   * closes #51 - 0.9.99.2 Update Social Media
 
 ---
-
 
 ## Version 0.9.99.1-prerelease `<Onlar ne yaptı!? Neresi?!>` edition
 
