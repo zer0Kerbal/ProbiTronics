@@ -58,7 +58,14 @@
   * [ModuleToggleCrossfeed]
     * remove "" from localization strings
   * closes #52 - [Bug 🐞]: Bottom attach point of Service Module 1 Mk2 Doesn't attach
-* add [DRAG_CUBES]
+* Add
+  * [DRAG_CUBES]
+  * [ModuleCargoPart]
+    * packedVolume = -1
+  * [ModuleInventoryPart]
+    * InventorySlots = 3
+    * packedVolumeLimit = 180
+    * will need future adjustments
 
 ### Status
 
