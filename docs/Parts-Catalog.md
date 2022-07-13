@@ -19,7 +19,7 @@ updated: 15 May 2022 -->
 
 ## Parts Catalog
 
-This add-on adds nineteen (19) probe and reusability focused parts
+This add-on adds eighteen (18) probe and reusability focused parts
 
 ---
 
