@@ -10,7 +10,7 @@
 | spacedock  | (https://spacedock.info/mod/3029)                                 |
 | ckan       | ProbiTronics                                                      |
 
-## Version 0.9.99.1-prerelease `<EDITION>` edition
+## Version 0.9.99.1-prerelease `<MystLeissa>` edition
 
 * 12 Jul 2022
 * Release for Kerbal Space Program [KSP 1.12.x]
@@ -22,48 +22,47 @@
   * [pt-servicemodule-3750.cfg] v1.0.0.0
   * [pt-prs-03125.cfg] v1.0.0.0
   * [pt-prs-0625.cfg] v1.0.0.0
+  * add @thumbs
+* closes #53 - New Parts
 
 ### docs/
 
 * Updated [README.md]
 * Replace [PartsInvoice.md] v1.1.3.2 with [PartsCatalog.md] v1.1.4.0
+
 ### Localization
 
 * Update
   * Localization/
     * <tr-tr.cfg> v1.0.1.0
+      * might need some tweaking
     * <en-us.cfg> v1.0.1.0
-    * Add
-      * [pt-servicemodule-1250.cfg]
-  * closes #44 - Turkish (Türk) <tr-tr.cfg>
+      * might need some tweaking
   * updates #7 - Localization - Master
 
 ### Update
 
 * [pt-servicemodule-2500] v1.0.1.0
   * [advFlightControl] down from [specializedControl]
-
-* [pt-rover-body-721.cfg]
-  * [entryCost] up from 6200 to 30000
-  * [cost] up from 5250 to 10120
-  * [mass] down from 0.37 to 0.25
-  * [ModuleCommand]
-    * consumes [ElectricChange] up from 0.005 to 0.04
-  * [ModuleReactionWheel]
-    * consumes [ElectricChange] down from 0.25 to 0.09
-  * Add
-    * [ModuleKerbNetAccess]
-    * [ModuleDataTransmitter]
-    * [ModuleCoreHeat]
-    * [radiatorMax] = 1.5
+  * [node_stack_top]
+    * now = 0.0, 1.20, 0.0, 0.0, 1.0, 0.0, 2, 1
+    * was = 0.0, 1.12, 0.0, 0.0, 1.0, 0.0, 2, 1
+* [pt-servicemodule-1250.cfg] v1.0.1.0
+  * FLIP
+  * [node_stack_bottom] pointing wrong way
+  * thank you to [@MystLeissa](https://github.com/MystLeissa) for the report 
+  * [node_attach]
+    * now = 0.0, 0.0, 0.0, 0.0, ***-1.0***, 0.0, 0, 1
+    * was = 0.0, 0.0, 0.0, 0.0, ***1.0***, 0.0, 0, 1
+  * closes #52 - [Bug 🐞]: Bottom attach point of Service Module 1 Mk2 Doesn't attach
 
 ### Status
 
 * Issues
-  * closes # - ProbiTronics (PT) 0.9.99.2-prerelease `<EDITION>` edition`
-  * closes # - 0.9.99.1 Verify Legal Mumbo Jumbo
-  * closes # - 0.9.99.1 Update Documentation
-  * closes # - 0.9.99.1 Update Social Media
+  * closes #48 - ProbiTronics (PT) 0.9.99.2-prerelease `<MystLeissa>` edition`
+  * closes #49 - 0.9.99.2 Verify Legal Mumbo Jumbo
+  * closes #50 - 0.9.99.2 Update Documentation
+  * closes #51 - 0.9.99.2 Update Social Media
 
 ---
 
