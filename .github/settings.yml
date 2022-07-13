@@ -260,6 +260,6 @@ milestones:
     description: progress toward recreating previous releases for archival and historical purposes
     state: closed
     
-  - title: Localization - English (United States) <en-us.cfg>
-    description: progress toward English (United States) <en-us.cfg> localization (Parts)
+  - title: Localization - English (<en-us.cfg>
+    description: progress toward English <en-us.cfg> localization (Parts)
     state: closed
