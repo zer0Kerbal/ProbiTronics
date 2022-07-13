@@ -23,6 +23,10 @@
   * [pt-prs-03125.cfg] v1.0.0.0
   * [pt-prs-0625.cfg] v1.0.0.0
 
+### docs/
+
+* Updated [README.md]
+* Replace [PartsInvoice.md] v1.1.3.2 with [PartsCatalog.md] v1.1.4.0
 ### Localization
 
 * Update
