@@ -15,25 +15,29 @@
 * 12 Jul 2022
 * Release for Kerbal Space Program [KSP 1.12.x]
 
-### docs/
+### Parts
 
-* Update
-  * add Turkish (Türk)
-    * [Attribution.md] v1.0.6.0
-    * [Localizations.md] v1.1.3.1
-    * [readme]
-    * [releaseNotes]
+* NEW
+  * [pt-servicemodule-0625.cfg] v1.0.0.0
+  * [pt-servicemodule-3750.cfg] v1.0.0.0
+  * [pt-prs-03125.cfg] v1.0.0.0
+  * [pt-prs-0625.cfg] v1.0.0.0
 
 ### Localization
 
-* Create
+* Update
   * Localization/
-    * <tr-tr.cfg>
-    * by [urexpect](https://github.com/urexpect), Teşekkürler!
+    * <tr-tr.cfg> v1.0.1.0
+    * <en-us.cfg> v1.0.1.0
+    * Add
+      * [pt-servicemodule-1250.cfg]
   * closes #44 - Turkish (Türk) <tr-tr.cfg>
   * updates #7 - Localization - Master
 
 ### Update
+
+* [pt-servicemodule-2500] v1.0.1.0
+  * [advFlightControl] down from [specializedControl]
 
 * [pt-rover-body-721.cfg]
   * [entryCost] up from 6200 to 30000
