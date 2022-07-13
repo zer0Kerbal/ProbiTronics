@@ -10,6 +10,56 @@
 | spacedock  | (https://spacedock.info/mod/3029)                                 |
 | ckan       | ProbiTronics                                                      |
 
+## Version 0.9.99.1-prerelease `<EDITION>` edition
+
+* 12 Jul 2022
+* Release for Kerbal Space Program [KSP 1.12.x]
+
+### docs/
+
+* Update
+  * add Turkish (Türk)
+    * [Attribution.md] v1.0.6.0
+    * [Localizations.md] v1.1.3.1
+    * [readme]
+    * [releaseNotes]
+
+### Localization
+
+* Create
+  * Localization/
+    * <tr-tr.cfg>
+    * by [urexpect](https://github.com/urexpect), Teşekkürler!
+  * closes #44 - Turkish (Türk) <tr-tr.cfg>
+  * updates #7 - Localization - Master
+
+### Update
+
+* [pt-rover-body-721.cfg]
+  * [entryCost] up from 6200 to 30000
+  * [cost] up from 5250 to 10120
+  * [mass] down from 0.37 to 0.25
+  * [ModuleCommand]
+    * consumes [ElectricChange] up from 0.005 to 0.04
+  * [ModuleReactionWheel]
+    * consumes [ElectricChange] down from 0.25 to 0.09
+  * Add
+    * [ModuleKerbNetAccess]
+    * [ModuleDataTransmitter]
+    * [ModuleCoreHeat]
+    * [radiatorMax] = 1.5
+
+### Status
+
+* Issues
+  * closes # - ProbiTronics (PT) 0.9.99.2-prerelease `<EDITION>` edition`
+  * closes # - 0.9.99.1 Verify Legal Mumbo Jumbo
+  * closes # - 0.9.99.1 Update Documentation
+  * closes # - 0.9.99.1 Update Social Media
+
+---
+
+
 ## Version 0.9.99.1-prerelease `<Onlar ne yaptı!? Neresi?!>` edition
 
 * 03 Jun 2022
