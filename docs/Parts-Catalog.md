@@ -19,7 +19,7 @@ updated: 15 May 2022 -->
 
 ## Parts Catalog
 
-This add-on adds eighteen (18) probe and reusability focused parts
+This add-on adds twenty-two (22) probe and reusability focused parts
 
 ---
 
@@ -41,21 +41,29 @@ This add-on adds eighteen (18) probe and reusability focused parts
   <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-rover-body-721_icon.png" alt="pt-rover-body-721" width="25%" height="25%" />
 
 * Service Modules
-  * [pt-servicemodule-0625]
-  * [pt-servicemodule-1250]
+  * Mk [pt-servicemodule-0625]
+  * MkI [pt-servicemodule-1250]
+  * MkIS [pt-servicemodule-1875]
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-servicemodule-0625_icon.png" alt="pt-servicemodule-0625" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-servicemodule-1250_icon.png" alt="pt-servicemodule-1250" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-servicemodule-0625_icon.png" alt="pt-servicemodule-0625" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-servicemodule-1250_icon.png" alt="pt-servicemodule-1250" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-servicemodule-1875_icon.png" alt="pt-servicemodule-1875" width="25%" height="25%" />
 
-  * [pt-servicemodule-2500]
-  * [pt-servicemodule-3750]
+  * MkII [pt-servicemodule-2500]
+  * MkIII [pt-servicemodule-3750]
 
   <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-servicemodule-2500_icon.png" alt="pt-servicemodule-2500" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-servicemodule-3750_icon.png" alt="pt-servicemodule-3750" width="25%" height="25%" />
 
 * Leg Adapter
-  * [pt-legAdapter-1250]
-  * [pt-legAdapter-2500]
+  * LA-0.625m - [pt-legAdapter-0625]
+  * LA-1.25m - [pt-legAdapter-1250]
+  * LA-1.875m - [pt-legAdapter-1875]
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-legAdapter-1250_icon.png" alt="pt-legAdapter-1250" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-legAdapter-2500_icon.png" alt="pt-legAdapter-2500" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-legAdapter-0625_icon.png" alt="pt-legAdapter-0625" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-legAdapter-1250_icon.png" alt="pt-legAdapter-1250" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-legAdapter-18750_icon.png" alt="pt-legAdapter-1875" width="25%" height="25%" />
+
+  * LA-2.5m - [pt-legAdapter-2500]
+  * LA-3.75m - [pt-legAdapter-3750]
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-legAdapter-2500_icon.png" alt="pt-legAdapter-2500" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/ProbiTronics/master/GameData/ProbiTronics/Parts/%40thumbs/pt-legAdapter-3750_icon.png" alt="pt-legAdapter-375" width="25%" height="25%" />
+
 
 * Probe
   * Ball
