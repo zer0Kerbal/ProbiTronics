@@ -15,7 +15,7 @@ updated: 05 Jul 2022 -->
 
 ProbiTronics is all about specialized probes and reusability parts. For Kerbal Space Program.
 
-This add-on adds eighteen (18) probe and reusability focused parts to the KSP game.
+This add-on adds twenty-two (22) probe and reusability focused parts to the KSP game.
 
 ## By [`zer0Kerbal`][zer0Kerbal], originally by [`tdubic`][tdubic]
 
@@ -27,16 +27,16 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 ### Part Catalog
 
 * SP-1 - reusable sample probe for bringing samples back to Kerbin.
-* LA-1m and LA-2m - Leg Adapter give you ability to use stock legs on longer engines.
+* Leg Adapters
+  * LA-0.625m, LA-1.25m, LA-1.875m, LA-2.5m and LA-3.75m
+  * Allows using stock legs on longer engines
 * RB-721 - more than just a rover body
 * Service Modules
-* Mk0
-  * 0.625m
+* Mk0 - 0.625m
+* MkI - 1.25m
   * Command Pod Mk I
-* MkI
-  * 1.25m
-* MkII
-  * 2.5m
+* MkIS - 1.875m
+* MkII - 2.5m
   * Command pod MK1-3
 * MkIII
   * 3.75m
