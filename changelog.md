@@ -20,6 +20,44 @@
 * Four New Parts
 * 1.25m Service Module bottom node repaired
 
+### Update
+
+* [pt-probe-g.cfg] v1.0.1.0
+  * bottom (only) node pointing up instead of down
+  * thank you to u/Significant-Sir-690 for reporting this
+  * also made node one size bigger (1 instead of 0)
+  * [node_stack_bottom]
+    * now = 0.0, -0.26, 0.0, 0.0, ***-1.0***, 0.0, ***1***, ***1***
+    * was = 0.0, -0.26, 0.0, 0.0, ***1.0***, 0.0, ***0***
+  * Add
+    * [node_attach] = 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0, 1
+
+### Parts
+
+* NEW
+  * [ ] [pt-legAdapter-0625.cfg] v1.0.0.0
+  * [ ] [pt-legAdapter-1875.cfg] v1.0.0.0
+  * [ ] [pt-legAdapter-3750.cfg] v1.0.0.0
+  * [ ] [pt-servicemodule-1875.cfg] v1.0.0.0
+  * [ ] add @thumbs
+* closes #57 - New Parts
+
+### docs/
+
+* Update
+  * [README.md]
+  * [PartsCatalog.md] v1.1.4.0
+
+### Localization
+
+* Update
+  * Localization/
+    * <tr-tr.cfg> v1.0.2.0
+      * might need some tweaking
+    * <en-us.cfg> v1.0.2.0
+      * might need some tweaking
+  * updates #7 - Localization - Master
+
 ---
 
 ### Parts## Version 0.9.99.2-prerelease `<MystLeissa>` edition
