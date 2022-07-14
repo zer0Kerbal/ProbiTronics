@@ -29,6 +29,7 @@
   * [node_stack_bottom]
     * now = 0.0, -0.26, 0.0, 0.0, ***-1.0***, 0.0, ***1***, ***1***
     * was = 0.0, -0.26, 0.0, 0.0, ***1.0***, 0.0, ***0***
+  * closes #58 - [Bug 🐞]: [pt-probe-g.cfg] bottom node attaching in middle of part
   * [ModuleScienceExperiment]
     * [experimentID] = magMeasurements
     * [experimentActionName] = #PT-MAG-name // Measure Magnetic Fields
@@ -43,11 +44,11 @@
 ### Parts
 
 * NEW
-  * [ ] [pt-legAdapter-0625.cfg] v1.0.0.0
-  * [ ] [pt-legAdapter-1875.cfg] v1.0.0.0
-  * [ ] [pt-legAdapter-3750.cfg] v1.0.0.0
-  * [ ] [pt-servicemodule-1875.cfg] v1.0.0.0
-  * [ ] add @thumbs
+  * [pt-legAdapter-0625.cfg] v1.0.0.0
+  * [pt-legAdapter-1875.cfg] v1.0.0.0
+  * [pt-legAdapter-3750.cfg] v1.0.0.0
+  * [pt-servicemodule-1875.cfg] v1.0.0.0
+  * add @thumbs
 * closes #57 - New Parts
 
 ### docs/
@@ -69,6 +70,14 @@
         * [#PT-MAG-name] = Measure Magnetic Fields
       * might need some tweaking
   * updates #7 - Localization - Master
+
+### Status
+
+* Issues
+  * closes #59 - ProbiTronics (PT) 0.9.99.3-prerelease `<EDITION>` edition`
+  * closes #60 - 0.9.99.3 Verify Legal Mumbo Jumbo
+  * closes #61 - 0.9.99.3 Update Documentation
+  * closes #62 - 0.9.99.3 Update Social Media
 
 ---
 
