@@ -29,6 +29,14 @@
   * [node_stack_bottom]
     * now = 0.0, -0.26, 0.0, 0.0, ***-1.0***, 0.0, ***1***, ***1***
     * was = 0.0, -0.26, 0.0, 0.0, ***1.0***, 0.0, ***0***
+  * [ModuleScienceExperiment]
+    * [experimentID] = magMeasurements
+    * [experimentActionName] = #PT-MAG-name // Measure Magnetic Fields
+    * [resetActionName] = #autoLOC_502049 //#autoLOC_502049 = Discard Data
+    * [reviewActionName] = #autoLOC_502204 //#autoLOC_502204 = Review Data
+    * [resetActionName] = Delete Data
+    * [collectActionName] = #autoLOC_6004056 //#autoLOC_6004056 = Download Data
+    * [interactionRange] = 1.5 // 0.8
   * Add
     * [node_attach] = 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0, 1
 
@@ -53,14 +61,18 @@
 * Update
   * Localization/
     * <tr-tr.cfg> v1.0.2.0
+      * Add
+        * [#PT-MAG-name] = Manyetik Alanları Ölçün
       * might need some tweaking
     * <en-us.cfg> v1.0.2.0
+      * Add
+        * [#PT-MAG-name] = Measure Magnetic Fields
       * might need some tweaking
   * updates #7 - Localization - Master
 
 ---
 
-### Parts## Version 0.9.99.2-prerelease `<MystLeissa>` edition
+## Version 0.9.99.2-prerelease `<MystLeissa>` edition
 
 * 12 Jul 2022
 * Release for Kerbal Space Program [KSP 1.12.x]
