@@ -10,7 +10,19 @@
 | spacedock  | (https://spacedock.info/mod/3029)                                 |
 | ckan       | ProbiTronics                                                      |
 
-## Version 0.9.99.2-prerelease `<MystLeissa>` edition
+## Version 0.9.99.3-prerelease `<EDITION>` edition
+
+* 19 Jul 2022
+* Release for Kerbal Space Program [KSP 1.12.x]
+
+### Summary
+
+* Four New Parts
+* 1.25m Service Module bottom node repaired
+
+---
+
+### Parts## Version 0.9.99.2-prerelease `<MystLeissa>` edition
 
 * 12 Jul 2022
 * Release for Kerbal Space Program [KSP 1.12.x]
