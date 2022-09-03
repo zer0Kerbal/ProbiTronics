@@ -51,6 +51,13 @@
   * add @thumbs
 * closes #57 - New Parts
 
+### localized tags to parts
+
+* Add
+  * <ProbiTronics.cfg> v1.0.0.0
+    * adds localized tags to parts
+* closes #63 - Add localized tags to parts
+
 ### docs/
 
 * Update
@@ -61,13 +68,15 @@
 
 * Update
   * Localization/
-    * <tr-tr.cfg> v1.0.2.0
+    * <tr-tr.cfg> v1.0.3.0
       * Add
         * [#PT-MAG-name] = Manyetik Alanları Ölçün
+        * [#PT-tags]
       * might need some tweaking
-    * <en-us.cfg> v1.0.2.0
+    * <en-us.cfg> v1.0.3.0
       * Add
         * [#PT-MAG-name] = Measure Magnetic Fields
+        * [#PT-tags]
       * might need some tweaking
   * updates #7 - Localization - Master
 
