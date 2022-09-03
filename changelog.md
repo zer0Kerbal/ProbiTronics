@@ -10,7 +10,7 @@
 | spacedock  | (https://spacedock.info/mod/3029)                                 |
 | ckan       | ProbiTronics                                                      |
 
-## Version 0.9.99.3-prerelease `<EDITION>` edition
+## Version 0.9.99.3-prerelease `<Significant Sir 690>` edition
 
 * 19 Jul 2022
 * Release for Kerbal Space Program [KSP 1.12.x]
@@ -19,6 +19,7 @@
 
 * Four New Parts
 * 1.25m Service Module bottom node repaired
+* can now search for all ProbiTronics parts in editor with keyword pt or probitronics or probi
 
 ### Update
 
@@ -83,7 +84,7 @@
 ### Status
 
 * Issues
-  * closes #59 - ProbiTronics (PT) 0.9.99.3-prerelease `<EDITION>` edition`
+  * closes #59 - ProbiTronics (PT) 0.9.99.3-prerelease `<Significant Sir 690>` edition`
   * closes #60 - 0.9.99.3 Verify Legal Mumbo Jumbo
   * closes #61 - 0.9.99.3 Update Documentation
   * closes #62 - 0.9.99.3 Update Social Media
