@@ -10,6 +10,87 @@
 | spacedock  | (https://spacedock.info/mod/3029)                                 |
 | ckan       | ProbiTronics                                                      |
 
+## Version 0.9.99.3-prerelease `<Significant Sir 690>` edition
+
+* 19 Jul 2022
+* Release for Kerbal Space Program [KSP 1.12.x]
+
+### Summary
+
+* Four New Parts
+* 1.25m Service Module bottom node repaired
+* can now search for all ProbiTronics parts in editor with keyword pt or probitronics or probi
+
+### Update
+
+* [pt-probe-g.cfg] v1.0.1.0
+  * bottom (only) node pointing up instead of down
+  * thank you to u/Significant-Sir-690 for reporting this
+  * also made node one size bigger (1 instead of 0)
+  * [node_stack_bottom]
+    * now = 0.0, -0.26, 0.0, 0.0, ***-1.0***, 0.0, ***1***, ***1***
+    * was = 0.0, -0.26, 0.0, 0.0, ***1.0***, 0.0, ***0***
+  * closes #58 - [Bug 🐞]: [pt-probe-g.cfg] bottom node attaching in middle of part
+  * [ModuleScienceExperiment]
+    * [experimentID] = magMeasurements
+    * [experimentActionName] = #PT-MAG-name // Measure Magnetic Fields
+    * [resetActionName] = #autoLOC_502049 //#autoLOC_502049 = Discard Data
+    * [reviewActionName] = #autoLOC_502204 //#autoLOC_502204 = Review Data
+    * [resetActionName] = Delete Data
+    * [collectActionName] = #autoLOC_6004056 //#autoLOC_6004056 = Download Data
+    * [interactionRange] = 1.5 // 0.8
+  * Add
+    * [node_attach] = 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0, 1
+
+### Parts
+
+* NEW
+  * [pt-legAdapter-0625.cfg] v1.0.0.0
+  * [pt-legAdapter-1875.cfg] v1.0.0.0
+  * [pt-legAdapter-3750.cfg] v1.0.0.0
+  * [pt-servicemodule-1875.cfg] v1.0.0.0
+  * add @thumbs
+* closes #57 - New Parts
+
+### localized tags to parts
+
+* Add
+  * <ProbiTronics.cfg> v1.0.0.0
+    * adds localized tags to parts
+* closes #63 - Add localized tags to parts
+
+### docs/
+
+* Update
+  * [README.md]
+  * [PartsCatalog.md] v1.1.4.0
+
+### Localization
+
+* Update
+  * Localization/
+    * <tr-tr.cfg> v1.0.3.0
+      * Add
+        * [#PT-MAG-name] = Manyetik Alanları Ölçün
+        * [#PT-tags]
+      * might need some tweaking
+    * <en-us.cfg> v1.0.3.0
+      * Add
+        * [#PT-MAG-name] = Measure Magnetic Fields
+        * [#PT-tags]
+      * might need some tweaking
+  * updates #7 - Localization - Master
+
+### Status
+
+* Issues
+  * closes #59 - ProbiTronics (PT) 0.9.99.3-prerelease `<Significant Sir 690>` edition`
+  * closes #60 - 0.9.99.3 Verify Legal Mumbo Jumbo
+  * closes #61 - 0.9.99.3 Update Documentation
+  * closes #62 - 0.9.99.3 Update Social Media
+
+---
+
 ## Version 0.9.99.2-prerelease `<MystLeissa>` edition
 
 * 12 Jul 2022
