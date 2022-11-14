@@ -7,7 +7,7 @@ tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 
 <!--
 Attributions.md v1.0.7.0
-ProbiTronics (PT)
+ProbiTronics (PROBE)
 created: 01 Feb 2022
 updated: 10 May 2022
 -->
@@ -15,7 +15,7 @@ updated: 10 May 2022
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
 
-# ProbiTronics (PT)
+# ProbiTronics (PROBE)
 
 [Home](./index.md)
 
@@ -24,7 +24,7 @@ updated: 10 May 2022
 ### Credits
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/87102-*/"><img border="0" alt="tdubic" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/set_resources_17/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png" width="50" height="50" > tdubic</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/191428-*/" alt="ProbiTronics (PT)"> ProbiTronics parts addons!</a></li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/87102-*/"><img border="0" alt="tdubic" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/set_resources_17/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png" width="50" height="50" > tdubic</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/191428-*/" alt="ProbiTronics (PROBE)"> ProbiTronics parts addons!</a></li>
 </ul>
 
 ### Flag(s)
