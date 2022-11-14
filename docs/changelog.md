@@ -8,13 +8,13 @@ tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 
 <!-- 
 hdr-changelog.md v1.0.0.0
-ProbiTronics (PT)
+ProbiTronics (PROBE)
 created: 13 May 2022
 updated:
 CC BY-ND 4.0 by zer0Kerbal
 --># Changelog  
   
-| modName    | ProbiTronics (PT)                                                 |
+| modName    | ProbiTronics (PROBE)                                                 |
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-NC-SA-4.0                                                   |
 | author     | tdubic and zer0Kerbal                                             |
@@ -98,7 +98,7 @@ CC BY-ND 4.0 by zer0Kerbal
 ### Status
 
 * Issues
-  * closes #59 - ProbiTronics (PT) 0.9.99.3-prerelease `<Significant Sir 690>` edition`
+  * closes #59 - ProbiTronics (PROBE) 0.9.99.3-prerelease `<Significant Sir 690>` edition`
   * closes #60 - 0.9.99.3 Verify Legal Mumbo Jumbo
   * closes #61 - 0.9.99.3 Update Documentation
   * closes #62 - 0.9.99.3 Update Social Media
@@ -170,7 +170,7 @@ CC BY-ND 4.0 by zer0Kerbal
 ### Status
 
 * Issues
-  * closes #48 - ProbiTronics (PT) 0.9.99.2-prerelease `<MystLeissa>` edition`
+  * closes #48 - ProbiTronics (PROBE) 0.9.99.2-prerelease `<MystLeissa>` edition`
   * closes #49 - 0.9.99.2 Verify Legal Mumbo Jumbo
   * closes #50 - 0.9.99.2 Update Documentation
   * closes #51 - 0.9.99.2 Update Social Media
@@ -219,7 +219,7 @@ CC BY-ND 4.0 by zer0Kerbal
 ### Status
 
 * Issues
-  * closes #40 - ProbiTronics (PT) 0.9.99.1-prerelease `<Onlar ne yaptı!? Neresi?!>` edition`
+  * closes #40 - ProbiTronics (PROBE) 0.9.99.1-prerelease `<Onlar ne yaptı!? Neresi?!>` edition`
   * closes #41 - 0.9.99.1 Verify Legal Mumbo Jumbo
   * closes #42 - 0.9.99.1 Update Documentation
   * closes #43 - 0.9.99.1 Update Social Media
