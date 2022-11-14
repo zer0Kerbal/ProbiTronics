@@ -253,7 +253,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [reddit]: https://www.reddit.com/user/zer0Kerbal
 [twitch]: https://www.twitch.tv/zer0kerbal
 [twitter]: https://twitter.com/zer0Kerbal
-[youtube]: https://www.youtube.com/channel/UCp9c8IaK4Gjgfj3O9QxrbDw
+[youtube]: https://www.youtube.com/@zer0Kerbal
 
 [tdubic]:  https://forum.kerbalspaceprogram.com/index.php?/profile/102159-*/ "tdubic"
 [urexpect]: https://github.com/urexpect "urexpect"
