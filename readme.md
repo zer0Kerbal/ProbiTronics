@@ -1,5 +1,5 @@
 <!-- readme.md v1.6.9.2
-ProbiTronics (PT)
+ProbiTronics ((PROBE))
 created: 17 Jul 2017
 updated: 05 Jul 2022 -->
 
@@ -11,7 +11,7 @@ updated: 05 Jul 2022 -->
 
 
 
-# ProbiTronics (PT)
+# ProbiTronics ((PROBE))
 
 ProbiTronics is all about specialized probes and reusability parts. For Kerbal Space Program.
 
